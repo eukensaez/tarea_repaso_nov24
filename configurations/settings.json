@@ -2,7 +2,7 @@
     "nombre": "Euken",
     "edad": 29,
     "activo": true,
-    "intereses": ["programación", "lectura", "música"]
+    "intereses": ["programacion", "lectura", "musica"]
 
-    //La estructura la he copiado de internet, ya que desconozco cómo el formato del código de json.
+    //La estructura la he copiado de internet, ya que desconozco como es el formato del codigo de json.
 }
